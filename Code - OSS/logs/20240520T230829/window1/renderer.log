@@ -1,0 +1,5 @@
+2024-05-20 23:08:31.399 [info] Started local extension host with pid 1833.
+2024-05-20 23:08:34.391 [info] [perf] Render performance baseline is 49ms
+2024-05-20 23:11:27.668 [info] Started local extension host with pid 2161.
+2024-05-20 23:11:33.712 [info] Started local extension host with pid 2221.
+2024-05-20 23:11:34.572 [error] No registered selector for ID: ms-vscode.npm-command
